@@ -7,3 +7,4 @@ ignore: |
 # skip checking line length
 rules:
   line-length: disable
+  allow-urls: https://wago.com
